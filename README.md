@@ -144,9 +144,9 @@ urlpatterns = [
 
 templates/two_factor/
 
-1. [_base.html]: https://github.com/renjithsraj/twofactordjango/blob/master/templates/two_factor/_base.html
+1. [_base.html](https://github.com/renjithsraj/twofactordjango/blob/master/templates/two_factor/_base.html)
 
-2. [_base_focus.html]: https://github.com/renjithsraj/twofactordjango/blob/master/templates/two_factor/_base_focus.html
+2. [_base_focus.html](https://github.com/renjithsraj/twofactordjango/blob/master/templates/two_factor/_base_focus.html)
 
 
 
