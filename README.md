@@ -67,8 +67,8 @@ INSTALLED_APPS = [
 
 MIDDLEWARE = [
     '-------------------------------------------------------',
-    'django_otp.middleware.OTPMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
+    'django_otp.middleware.OTPMiddleware',
     '--------------------------------------------------------'
 ]
 
