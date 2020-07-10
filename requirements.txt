@@ -4,7 +4,7 @@ Django==3.0.6
 django-formtools==2.2
 django-otp==0.9.1
 django-phonenumber-field==3.0.1
-django-two-factor-auth==1.11.0
+django-two-factor-auth==1.12
 phonenumbers==8.12.3
 pytz==2020.1
 qrcode==6.1
